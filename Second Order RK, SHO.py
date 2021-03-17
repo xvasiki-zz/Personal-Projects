@@ -1,5 +1,5 @@
 #Vasiki Konneh
-#Code using RK2 for Simple Harmonic Oscillator; examines 4 diff. casses of oscillation damping
+#Code using RK2 for Simple Harmonic Oscillator; examines 4 diff. cases of oscillation damping
     # β = 0
     # β = ω0/20
     # β = 5ω0
